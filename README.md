@@ -3,9 +3,6 @@
 Live view: https://martin-kristensen-wd.github.io/React-animation-landingpage/
 
 
-  - [Useful resources](#useful-resources)
-
-
 ### Built with
 
 - React 
@@ -20,7 +17,6 @@ Live view: https://martin-kristensen-wd.github.io/React-animation-landingpage/
 - Learned how to style a React project with Styled Components 
 
 - Leaned how animations can be added using Framer Motion
-
 
 
 ### Useful resources
