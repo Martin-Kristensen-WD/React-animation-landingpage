@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/React-animation-landingpage/static/js/main.d3afcb36.chunk.js",
+    "main.js.map": "/React-animation-landingpage/static/js/main.d3afcb36.chunk.js.map",
+    "runtime-main.js": "/React-animation-landingpage/static/js/runtime-main.d2fc57f0.js",
+    "runtime-main.js.map": "/React-animation-landingpage/static/js/runtime-main.d2fc57f0.js.map",
+    "static/js/2.6bb359f3.chunk.js": "/React-animation-landingpage/static/js/2.6bb359f3.chunk.js",
+    "static/js/2.6bb359f3.chunk.js.map": "/React-animation-landingpage/static/js/2.6bb359f3.chunk.js.map",
+    "static/js/3.2d1fbd36.chunk.js": "/React-animation-landingpage/static/js/3.2d1fbd36.chunk.js",
+    "static/js/3.2d1fbd36.chunk.js.map": "/React-animation-landingpage/static/js/3.2d1fbd36.chunk.js.map",
+    "index.html": "/React-animation-landingpage/index.html",
+    "static/js/2.6bb359f3.chunk.js.LICENSE.txt": "/React-animation-landingpage/static/js/2.6bb359f3.chunk.js.LICENSE.txt",
+    "static/media/featured3.66d68644.jpg": "/React-animation-landingpage/static/media/featured3.66d68644.jpg",
+    "static/media/pizza-3.f2f9b9a4.jpg": "/React-animation-landingpage/static/media/pizza-3.f2f9b9a4.jpg",
+    "static/media/product-1.36d084f3.jpg": "/React-animation-landingpage/static/media/product-1.36d084f3.jpg",
+    "static/media/product-2.4c066971.jpg": "/React-animation-landingpage/static/media/product-2.4c066971.jpg",
+    "static/media/product-3.115cc32b.jpg": "/React-animation-landingpage/static/media/product-3.115cc32b.jpg",
+    "static/media/sweet-2.d5cf1ad2.jpg": "/React-animation-landingpage/static/media/sweet-2.d5cf1ad2.jpg",
+    "static/media/sweet-3.badeecbe.jpg": "/React-animation-landingpage/static/media/sweet-3.badeecbe.jpg",
+    "static/media/sweet3.c495c742.jpg": "/React-animation-landingpage/static/media/sweet3.c495c742.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2fc57f0.js",
+    "static/js/2.6bb359f3.chunk.js",
+    "static/js/main.d3afcb36.chunk.js"
+  ]
+}
